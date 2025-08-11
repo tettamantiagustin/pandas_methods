@@ -4,25 +4,25 @@ Este Jupyter Notebook es una guía rápida de uso de pandas, pensada para repasa
 
 Incluye ejemplos prácticos de:
 
-Carga y guardado de datos (.csv, .xlsx, etc.)
-Exploración y resumen de información (.head(), .shape, .info(), .describe(), etc.)
-Filtrado y selección de datos
-Operaciones con columnas y filas (.value_counts(), .sample(), .nlargest(), .nsmallest(), .quantile())
-Creación y modificación de columnas
-Concatenación y combinación de DataFrames (.append(), .merge(), .concat())
-Ordenamiento y reseteo de índices (.sort_values(), .reset_index())
-Filtrado por listas y condiciones múltiples
+* Carga y guardado de datos (.csv, .xlsx, etc.)
+* Exploración y resumen de información (.head(), .shape, .info(), .describe(), etc.)
+* Filtrado y selección de datos
+* Operaciones con columnas y filas (.value_counts(), .sample(), .nlargest(), .nsmallest(), .quantile())
+* Creación y modificación de columnas
+* Concatenación y combinación de DataFrames (.append(), .merge(), .concat())
+* Ordenamiento y reseteo de índices (.sort_values(), .reset_index())
+* Filtrado por listas y condiciones múltiples
 
 💡 Ideal para quienes están aprendiendo pandas o necesitan un recordatorio rápido de sus funciones más usadas.
 
 ⚙ Requisitos
-Python 3.8+
-pandas
-numpy
-jupyter
+* Python 3.8+
+* pandas
+* numpy
+* jupyter
 
 Para instalar dependencias:
-!pip install pandas numpy jupyter
+<pre> ```bash !pip install pandas numpy jupyter ``` </pre>
 
 🚀 Cómo usarlo
 Clonar este repositorio
