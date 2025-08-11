@@ -22,7 +22,7 @@ Incluye ejemplos prácticos de:
 * jupyter
 
 Para instalar dependencias:
-<pre> ```bash !pip install pandas numpy jupyter ``` </pre>
+bash !pip install pandas numpy 
 
 🚀 Cómo usarlo
 Clonar este repositorio
