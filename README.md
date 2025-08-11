@@ -21,11 +21,14 @@ Incluye ejemplos prácticos de:
 * numpy
 * jupyter
 
-Para instalar dependencias:
-```bash
-!pip install pandas numpy
-
 🚀 Cómo usarlo
 Clonar este repositorio
 Abrir el notebook con Jupyter
 Ejecutar las celdas y probar las funciones por tu cuenta.
+
+
+Para instalar dependencias:
+```bash
+!pip install pandas numpy
+
+
