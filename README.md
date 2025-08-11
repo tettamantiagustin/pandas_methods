@@ -23,7 +23,8 @@ Incluye ejemplos prácticos de:
 
 Para instalar dependencias:
 ```bash 
-!pip install pandas numpy ``` 
+!pip install pandas numpy
+``` bash 
 
 🚀 Cómo usarlo
 Clonar este repositorio
